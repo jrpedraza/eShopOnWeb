@@ -21,3 +21,4 @@ jobs:
                   template: ./main.bicep
                   parameters: storagePrefix=stg
                   failOnStdErr: false
+                  
